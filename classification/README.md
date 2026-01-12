@@ -134,7 +134,7 @@ Training Progress (5 epochs):
 ├─ Epoch 2: 87.93% → +5.05% improvement
 ├─ Epoch 3: 89.68% → Steady climb
 ├─ Epoch 4: 90.62% → Breaking 90% barrier
-└─ Epoch 5: 92.98% → Stage 1 complete ⭐
+└─ Epoch 5: 92.98% → Stage 1 complete 
 
 Key Metrics:
 ✓ Final Validation Accuracy: 92.98%
@@ -149,7 +149,7 @@ Training Progress (15 epochs, all completed):
 ├─ Epoch 1:  90.44% → Strong start after unfreezing
 ├─ Epoch 5:  93.24% → Consistent gains
 ├─ Epoch 10: 94.47% → Approaching 95%
-└─ Epoch 15: 95.35% → PEAK PERFORMANCE 🏆
+└─ Epoch 15: 95.35% → PEAK PERFORMANCE 
 
 Key Metrics:
 ✓ Final Validation Accuracy: 95.35% (BEST)
@@ -200,7 +200,7 @@ Key Metrics:
 | **Overfitting Risk** | Moderate | Minimal |
 | **Production Ready** | Baseline only | **Yes ✓** |
 
-**Winner**: 🏆 **Transfer Learning (EfficientNetB0)** by 27.46 percentage points!
+**Winner**:  **Transfer Learning (EfficientNetB0)** by 27.46 percentage points!
 
 ---
 
